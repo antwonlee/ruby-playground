@@ -1,5 +1,5 @@
 #Learn Ruby!!!
-This is created so I can teach others Ruby Language, and for me to get better at
+This repo was created so I can teach others about Ruby Language, and for me to get better at
 Ruby.  Ruby is fun, and it is my favorite language!
 
 ##1.0 Ruby Loops
