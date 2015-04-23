@@ -10,3 +10,9 @@ loop do
     print "please choose y or n, thanks "
   end
 end
+
+# you can use ugly curry bracket...
+loop {
+  print "This is looping..."
+  break
+}
