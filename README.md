@@ -9,4 +9,5 @@ Ruby.  Ruby is fun, and it is my favorite language!
 + [The While Loop]
 
 ##Credits
-Many of these tutorials were learned from [Treehouse](http://goo.gl/oVfrAk).
+Many of these tutorials were learned from [Treehouse](http://goo.gl/oVfrAk) and
+many other online blogs.
