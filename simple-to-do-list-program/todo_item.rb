@@ -5,4 +5,8 @@ class TodoItem
     @name = name
     @complete = false
   end
+
+  def mark_complete!
+    @complete = true
+  end
 end
