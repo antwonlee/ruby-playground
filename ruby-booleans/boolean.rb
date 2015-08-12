@@ -22,3 +22,20 @@ ture && false #false
 1 && (2 == 1) && 2 #false
 1 && false && 2 #false
 (1 && 2) == (1 && 2) #true
+
+# Conditional Assignment
+name = "Anthony"
+
+if defined?(name)
+  name
+else
+  name = "Andrew"
+end
+
+new_name = "Anthony"
+new_name ||= "Andrew"
+
+other_name = (other_name || "Chey")
+puts other_name
+
+exit
