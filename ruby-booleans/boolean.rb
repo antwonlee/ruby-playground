@@ -11,3 +11,14 @@ true.nil?
 def this_method_should_return_nil
   return nil
 end
+
+true || true #true
+true || false #true
+ture && false #false
+
+1 && 2 #2
+2 && 1 #1
+1 && 2 == 1 && 2 #false
+1 && (2 == 1) && 2 #false
+1 && false && 2 #false
+(1 && 2) == (1 && 2) #true
