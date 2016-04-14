@@ -1,4 +1,6 @@
-#Learn Ruby!!!
-This repo was created so I can teach others about Ruby Language, and for me to get better at Ruby.  Ruby is fun, and it is my favorite language!
+#Ruby Exercises
 
+![Ruby](https://forrst-live.s3.amazonaws.com/posts/snaps/114698/large.png?1319208808)
+
+Learning Ruby is fun.
 
