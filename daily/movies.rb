@@ -10,6 +10,8 @@ end
 movies = []
 headers = nil
 rows.each do |row|
+  next if row.empty?
+
   if header.nil?
     headers = row
   else
